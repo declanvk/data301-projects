@@ -1,0 +1,6 @@
+[UpdateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[UpdateApp | ERROR] No notebooks given
+[UpdateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[UpdateApp | INFO] Updating metadata for notebook: ProjectEuler17.ipynb
+[UpdateApp | INFO] Updating metadata for notebook: ProjectEuler52.ipynb
+[UpdateApp | INFO] Updating metadata for notebook: Tokenization.ipynb
